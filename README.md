@@ -2,9 +2,9 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información de la estudiante
+## Información del estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Obregon Maldonado Alan Yahir \[2321222l]; l23212221@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
